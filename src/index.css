@@ -1,0 +1,12 @@
+:root {
+  color-scheme: light; /* light UI with white background */
+  font-family: Inter, ui-sans-serif, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html, body, #root { height: 100%; }
+body { margin: 0; background: #ffffff; }
+
+button { cursor: pointer; }
+
